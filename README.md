@@ -1,5 +1,5 @@
 # SR-FLIPFLOP-USING-CASE
-
+**DATE : 05/12/2025**
 **AIM:**
 
 To implement  SR flipflop using verilog and validating their functionality using their functional tables
@@ -38,11 +38,162 @@ The maximum possible groupings of adjacent ones are already shown in the figure.
 
 **PROGRAM**
 
-/* Program for flipflops and verify its truth table in quartus using Verilog programming. Developed by: RegisterNumber:
+/* Program for flipflops and verify its truth table in quartus using Verilog programming. 
+Developed by: DHARSHAN G 
+RegisterNumber: 25016421
 */
 
 **RTL LOGIC FOR FLIPFLOPS**
 
+
+<img width="933" height="480" alt="Screenshot 2025-12-05 152048" src="https://github.com/user-attachments/assets/f1e809d4-77e6-45f3-81c0-6df258eac030" />
+
 **TIMING DIGRAMS FOR FLIP FLOPS**
 
+<img width="900" height="146" alt="Screenshot 2025-12-05 152035" src="https://github.com/user-attachments/assets/5c0ab4bf-5adf-4116-9566-ead82bb84ee9" />
+
+
 **RESULTS**
+Thus the SR flipflop using verilog and validating their functionality using their functional tables is implemented and verified.
+
+..................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................
+...
+..
+
+..
+.
+.
+.
+
+.
+
+.
+.
+.
+.
+.
+
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+
+.
+.
+.
+.
+.
+.
+
+
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+..
+.
+
+
+.
+.
+.
+
+.
+.
+.
+.
+
+.
+.
+
+.
+..
+.
+
+
+.
+..
+
+.
+.
+..
+
+.
+.
+
+.
+
+.
+
+
+.
+
+
+..
+
+.
+
+..
+.
+.
+
+
+
+...
+.
+.
+.
+.
+
+..
+.
+
+..
+
+.
+.
+.
+.
+..
+
+.
+.
+..
+.
+
+.
+..
+
+.
+.
+/
+
+
+
